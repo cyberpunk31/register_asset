@@ -1,0 +1,2 @@
+AssetId,SerialNumber,Category,PurchaseDate,PurchaseOrder,Location,PurchaseCost,Model,InvoiceDate,InvoiceNumber,InvoiceFilePath,SupplierDetails,SupplierLocation,SupplierContact,WarrantyStartDate,WarrantyEndDate,Condition
+0087,99631,Laptop,09-01-2025,12345,India,20000,x440,09-01-2025,654321,C:\Users\GAC-LP0127\Downloads\Explara _ Registrations.pdf,XYZ,India,8979005423,09-01-2025,09-01-2029,Good
